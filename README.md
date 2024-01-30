@@ -3,7 +3,7 @@
 ![Checkout App]()
 
 
-[Click Me!]()
+[Click Me!](https://kaplanh.github.io/Todo-App_withJS/)
 
 ## Description
 

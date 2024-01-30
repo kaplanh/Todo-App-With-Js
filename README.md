@@ -1,6 +1,6 @@
 # Todo App
 
-![Checkout App]()
+![Todo list with js](https://github.com/kaplanh/Todo-App_withJS/assets/101884444/8298ed4a-c7bd-43fb-86df-8f46371ee68f)
 
 
 [Click Me!](https://kaplanh.github.io/Todo-App_withJS/)
